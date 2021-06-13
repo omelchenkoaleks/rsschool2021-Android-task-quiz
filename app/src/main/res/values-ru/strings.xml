@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Викторина</string>
+
+    <!--  questions one -->
+    <string name="question_one">Кто из президентов США написал свой собственный рассказ про Шерлока Холмса?</string>
+    <string name="one_answer_a">Джон Кеннеди</string>
+    <string name="one_answer_b">Франклин Рузвельт</string>
+    <string name="one_answer_c">Рональд Рейган</string>
+    <string name="one_answer_d">Дональд Трамп</string>
+    <string name="one_answer_e">Джо Байден</string>
+
+    <!--  questions two -->
+    <string name="question_two">Откуда пошло выражение «деньги не пахнут?</string>
+    <string name="two_answer_a">От подателей за провоз парфюмерии</string>
+    <string name="two_answer_b">От сборов за нестиранные носки</string>
+    <string name="two_answer_c">От налога на туалеты</string>
+    <string name="two_answer_d">Фольклор</string>
+    <string name="two_answer_e">Были проведены тесты и исследования</string>
+
+    <!--  questions three -->
+    <string name="question_three">Туристы, приезжающие на Майорку, обязаны заплатить налог…</string>
+    <string name="three_answer_a">На плавки</string>
+    <string name="three_answer_b">На пальмы</string>
+    <string name="three_answer_c">На солнце</string>
+    <string name="three_answer_d">На песок</string>
+    <string name="three_answer_e">На море</string>
+
+    <!--  questions four -->
+    <string name="question_four">Советский мультфильм, удостоенный «Оскара», — это…</string>
+    <string name="four_answer_a">«Простоквашино»</string>
+    <string name="four_answer_b">«Винни-Пух»</string>
+    <string name="four_answer_c">«Старик и море»</string>
+    <string name="four_answer_d">«Ну, погоди!»</string>
+    <string name="four_answer_e">«Ежик в тумане»</string>
+
+    <!--  questions five -->
+    <string name="question_five">Найдите ошибку в отрывке из басни Крылова: «Попрыгунья Стрекоза лето красное пропела; оглянуться не успела, как зима катит в глаза».</string>
+    <string name="five_answer_a">Стрекозы не умеют прыгать</string>
+    <string name="five_answer_b">Эти насекомые совсем не издают звуков</string>
+    <string name="five_answer_c">Зимы в тех местах, о которых писал Крылов, нет</string>
+    <string name="five_answer_d">Зима не катит в глаза, а дует</string>
+    <string name="five_answer_e">Здесь нет ошибки, все правильно</string>
+
+</resources>

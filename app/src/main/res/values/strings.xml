@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">Quiz</string>
+
+    <!--  questions one -->
+    <string name="question_one">Which US President wrote his own story about Sherlock Holmes?</string>
+    <string name="one_answer_a">John F. Kennedy</string>
+    <string name="one_answer_b">Franklin Roosevelt</string>
+    <string name="one_answer_c">Ronald Reagan</string>
+    <string name="one_answer_d">Donald Trump</string>
+    <string name="one_answer_e">Joe Biden</string>
+
+    <!--  questions two -->
+    <string name="question_two">Where did the expression “money don’t smell?”</string>
+    <string name="two_answer_a">From the bearers for the transport of perfumes</string>
+    <string name="two_answer_b">From fees for unwashed socks</string>
+    <string name="two_answer_c">From the toilet tax</string>
+    <string name="two_answer_d">Folklore</string>
+    <string name="two_answer_e">Tests and studies have been done</string>
+
+    <!--  questions three -->
+    <string name="question_three">Tourists coming to Mallorca are required to pay tax \.\.\.</string>
+    <string name="three_answer_a">For swimming trunks</string>
+    <string name="three_answer_b">On the palms</string>
+    <string name="three_answer_c">In the sun</string>
+    <string name="three_answer_d">On the sand</string>
+    <string name="three_answer_e">On the sea</string>
+
+    <!--  questions four -->
+    <string name="question_four">The Oscar-winning Soviet cartoon is \.\.\.</string>
+    <string name="four_answer_a">"Prostokvashino"</string>
+    <string name="four_answer_b">"Winnie the Pooh"</string>
+    <string name="four_answer_c">"The Old Man and the Sea"</string>
+    <string name="four_answer_d">"Wait for it!"</string>
+    <string name="four_answer_e">"Hedgehog in the Fog"</string>
+
+    <!--  questions five -->
+    <string name="question_five">Find a mistake in an excerpt from Krylov\'s fable: “The Jumping Dragonfly sang red summer; I didn\’t have time to look back, as winter rolls into my eyes ”.</string>
+    <string name="five_answer_a">Dragonflies Can\'t Jump</string>
+    <string name="five_answer_b">These insects make no sound at all</string>
+    <string name="five_answer_c">There are no winters in the places that Krylov wrote about</string>
+    <string name="five_answer_d">Winter does not roll in the eyes, but blows</string>
+    <string name="five_answer_e">There is no mistake here, everything is correct</string>
+
 </resources>
