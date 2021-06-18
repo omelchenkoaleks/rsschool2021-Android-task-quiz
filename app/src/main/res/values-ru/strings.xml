@@ -11,7 +11,7 @@
     <string name="one_answer_e">Джо Байден</string>
 
     <!--  questions two -->
-    <string name="question_two">Откуда пошло выражение «деньги не пахнут?</string>
+    <string name="question_two">Откуда пошло выражение «деньги не пахнут"?</string>
     <string name="two_answer_a">От подателей за провоз парфюмерии</string>
     <string name="two_answer_b">От сборов за нестиранные носки</string>
     <string name="two_answer_c">От налога на туалеты</string>
@@ -41,5 +41,16 @@
     <string name="five_answer_c">Зимы в тех местах, о которых писал Крылов, нет</string>
     <string name="five_answer_d">Зима не катит в глаза, а дует</string>
     <string name="five_answer_e">Здесь нет ошибки, все правильно</string>
+
+
+    <!--  buttons titles  -->
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+    <string name="submit">Показать результат</string>
+
+    <!--  show result  -->
+    <string name="your_result">Ваш результат: </string>
+    <string name="from"> из 5</string>
+    <string name="your_answer">Ваш ответ: </string>
 
 </resources>

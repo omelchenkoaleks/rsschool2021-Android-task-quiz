@@ -10,7 +10,7 @@
     <string name="one_answer_e">Joe Biden</string>
 
     <!--  questions two -->
-    <string name="question_two">Where did the expression “money don’t smell?”</string>
+    <string name="question_two">Where did the expression “money don’t smell”?</string>
     <string name="two_answer_a">From the bearers for the transport of perfumes</string>
     <string name="two_answer_b">From fees for unwashed socks</string>
     <string name="two_answer_c">From the toilet tax</string>
@@ -40,5 +40,16 @@
     <string name="five_answer_c">There are no winters in the places that Krylov wrote about</string>
     <string name="five_answer_d">Winter does not roll in the eyes, but blows</string>
     <string name="five_answer_e">There is no mistake here, everything is correct</string>
+
+
+    <!--  buttons titles  -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+
+    <!--  show result  -->
+    <string name="your_result">Your result: </string>
+    <string name="from"> from 5</string>
+    <string name="your_answer">Your answer: </string>
 
 </resources>
